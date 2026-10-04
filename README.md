@@ -1,1 +1,3 @@
 # market-digest-lab
+
+Every week, financial markets are moved by two things: events (things that happen — a tariff announcement, a surprise rate decision, a conflict flare-up) and narratives (the stories investors tell each other — "rate cuts are coming," "AI spending will save earnings"). This project builds a small research lab that studies both. Module 1 — the Transmission Map measures real shockwaves: when X happened, what did oil, bonds, stocks, currencies, and gold do in the days after? Module 2 — the Narrative Tracker uses AI to read thousands of news headlines, finds the dominant market story each week, and checks whether that story actually moved prices or was just noise. 
