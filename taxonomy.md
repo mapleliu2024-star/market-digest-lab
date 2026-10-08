@@ -1,6 +1,6 @@
-Label 1: AI development/spending
+Label 1: AI spending boom
 
-Definition: the activities, campaigns, or build-outs related to AI.
+Definition: companies and investors pouring money into AI (chips, data centers, models), on the belief that the spending pays off.
 Example headline: The AI Build-Out Is Becoming the Biggest Economic Bet in U.S. History
 
 
