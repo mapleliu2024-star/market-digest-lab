@@ -19,7 +19,7 @@ Example headline: Unrelenting Hawkishness Comments From The Fed Are Adding Odds 
 Label 4: prices soar
 
 Definition: prices rise fast and significantly
-Example headline: Prices Surge, but "Investors Showed Little Interest Buying" Contradicts Itself
+Example headline: S&P 500 Soars To Record As Investors Pile Into Risk Assets
 
 
 Label 5: higher for longer
