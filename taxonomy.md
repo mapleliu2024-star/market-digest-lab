@@ -1,6 +1,6 @@
-Label 1: AI spending boom
+Label 1: AI development/spending
 
-Definition: activities, campaigns, or build-outs related to AI.
+Definition: the activities, campaigns, or build-outs related to AI.
 Example headline: The AI Build-Out Is Becoming the Biggest Economic Bet in U.S. History
 
 
@@ -46,7 +46,7 @@ Definition: central banks raise rates worldwide.
 Example headline: India Joined Global Rate-Tightening Wave
 
 
-Label 9: oil/energy supply fear
+Label 9: oil/energy supply fears
 
 Definition: the oil/energy supply is running short, leading to higher oil/energy prices.
 Example headline: G7 announces 100-million-barrel emergency oil release
