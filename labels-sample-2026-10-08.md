@@ -4,7 +4,7 @@
 
 "India joins global rate-tightening wave with first hike in nearly 4 years" (Reuters) => global rate tightening
 
-"IMF chief warns energy shock, growing debt and AI risks threaten global growth" (Reuters) => energy supply fears, debt fears
+"IMF chief warns energy shock, growing debt and AI risks threaten global growth" (Reuters) => oil/energy supply fears, debt fears
 
 "Hedge funds warn BoE repo reforms could backfire" (Reuters) => none fit
 
