@@ -1,6 +1,6 @@
-Label 1: AI build-out 
+Label 1: AI spending boom
 
-Definition: the large-scale expansion or construction of infrastructure, facilities, networks, or capacity.
+Definition: activities, campaigns, or build-outs related to AI.
 Example headline: The AI Build-Out Is Becoming the Biggest Economic Bet in U.S. History
 
 
@@ -46,9 +46,9 @@ Definition: central banks raise rates worldwide.
 Example headline: India Joined Global Rate-Tightening Wave
 
 
-Label 9: oil supply fear
+Label 9: oil/energy supply fear
 
-Definition: the oil supply is running short, leading to higher oil prices.
+Definition: the oil/energy supply is running short, leading to higher oil/energy prices.
 Example headline: G7 announces 100-million-barrel emergency oil release
 
 
@@ -62,3 +62,9 @@ Label 11: data surprise repricing
 
 Definition: the economic data lands far from expectations, forcing investors to rethink the Fed's path.
 Example headline: September jobs gain of 29,000 badly misses 90,000 forecast; hike odds collapse
+
+
+Label 12: debt fears
+
+Definition: investors worry government borrowing is too high, pushing up yields and threatening fiscal stability.
+Example headline: U.S. interest costs top $1 trillion as national debt climbs
