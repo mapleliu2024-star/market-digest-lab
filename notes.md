@@ -18,6 +18,6 @@ Series 1, 2, 6 are more pertinent to the 10 events. The federal funds rate is cl
 
 
 Week 1 review:
-(a) What worked better than you expected this week? 
-(b) What's still confusing or annoying? 
-(c) What do you want to do differently next week?
+(a) What worked better than you expected this week? I can really handle the new apps/platforms even without any experience. I am able to identify and describe market shocks/events on my own. It takes a long time tho, but I overcame the fear. 
+(b) What's still confusing or annoying? I am still not very familiar with many financial transmission maps. And I always have trouble describing them in my own words. Sometimes, I cannot completely get the point of the task, so I need a more detailed task description, such as what the purpose of the task is. 
+(c) What do you want to do differently next week? I hope I can have more opportunities to learn a little bit of coding in VS Studio Code. I hope to have more practice for my financial description ability, so that I can speak out loudly without a too long thinking process gradually in the future. 
