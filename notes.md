@@ -15,3 +15,9 @@
 Tip: PAYEMS is in thousands of jobs; M2SL is in billions of dollars.
 
 Series 1, 2, 6 are more pertinent to the 10 events. The federal funds rate is closely related to the Federal Reserve's primary monetary policy, which determines borrowing costs. CPI index measures the inflation level. It is closely related to the Fed's monetary policy decisions. 10Y Treasury yield is a benchmark for long-term borrowing costs, including mortgage rates and corporate financing. It influences the discount rates used in equity valuation and DCF models.
+
+
+Week 1 review:
+(a) What worked better than you expected this week? 
+(b) What's still confusing or annoying? 
+(c) What do you want to do differently next week?
