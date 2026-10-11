@@ -24,3 +24,6 @@ Week 1 review:
 (b) What's still confusing or annoying? I am still not very familiar with many financial transmission maps. And I always have trouble describing them in my own words. Sometimes, I cannot completely get the point of the task, so I need a more detailed task description, such as what the purpose of the task is. 
 
 (c) What do you want to do differently next week? I hope I can have more opportunities to learn a little bit of coding in VS Studio Code. I hope to have more practice for my financial description ability, so that I can speak out loudly without a too long thinking process gradually in the future. 
+
+
+2026-10-11: I trust this backfill because _it shows similar levels of VIX and 10Y Treasury yiled from my previous records__.
