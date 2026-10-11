@@ -26,4 +26,4 @@ Week 1 review:
 (c) What do you want to do differently next week? I hope I can have more opportunities to learn a little bit of coding in VS Studio Code. I hope to have more practice for my financial description ability, so that I can speak out loudly without a too long thinking process gradually in the future. 
 
 
-2026-10-11: I trust this backfill because _it shows similar levels of VIX and 10Y Treasury yiled from my previous records__.
+2026-10-11: I trust this backfill because _it shows similar levels of VIX and 10Y Treasury yield from my previous records__.
