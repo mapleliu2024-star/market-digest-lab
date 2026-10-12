@@ -17,3 +17,13 @@ Event 8: On Sep 30, Alphabet unveiled Gemini 4 Argon after months of delays. The
 Event 9: On Oct 2, G7's 100M-barrel emergency oil release eased Brent crude oil price to $102.25. 
 
 Event 10: On Oct 2, the weak September jobs report led to the odds of a rate hike falling from 64% to 22%. Because of expected cheaper borrowing costs, S&P jumped 0.7%.
+
+Event 11: From Oct 1 to Nov 12, the U.S. Federal government was shut down for 43 days as Congress failed to pass appropriations legislation for the 2026 fiscal year. The S&P 500 stock index dropped by about 4.2%. However, it recovered and went back up by 3.7% by the end of the year, starting from its lowest point on November 21 after hints that the Federal Reserve might lower interest rates.
+
+Event 12: On Oct 28, Microsoft secured a 27% ownership stake in OpenAI as the startup converted into a traditional commercial business valued at $500 million. Microsoft's stock price hit an all-time record at $542.07. (This restructured deal was called a masterclass because it locked in Microsoft's access to OpenAI's tech until 2032 while finally freeing Microsoft to build its own independent super-AI without legal restrictions.) 
+
+Event 13: In late 2025, OPEC+ deliberately flooded the world with oil to win back market share, causing prices to crash to around $65 a barrel and shocking investors. However, just five months later, this oversupply drained the world's backup capacity, allowing sudden military conflicts to trigger panic buying and spike prices back over $100 a barrel.
+
+Event 14: In March 17-18, 2026, the Federal Reserve kept its benchmark interest rate at 3.50%–3.75% due to rising inflation risks caused by global energy and geopolitical shocks. Because of this strict stance, investors realized interest rates would stay higher for longer and delayed their expectations for a rate cut from July to September.
+
+Event 15: On March 13, 2026, the U.S. government reported that economic growth for the final months of 2025 dropped sharply to a weak 0.7%. This severe slowdown was mostly caused by a historic 43-day government shutdown that froze federal spending and harmed the economy.
