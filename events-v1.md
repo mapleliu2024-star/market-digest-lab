@@ -12,7 +12,7 @@ Event 6: On Sep 18, the Bank of Japan hiked rates to 1.25%, a 31-year high. Beca
 
 Event 7: On Sep 24, after the Trump-Xi summit, the market showed a mixed reaction -- Dow +1.8% that afternoon (NVDA, Apple, Microsoft +2–3%) on "$30B tariff cuts + AI working group" headlines, then CSI 300 −1.7% the next day (worst session in a month) when the actual deliverable turned out to be just a two-month truce extension.
 
-Event 8: On Sep 30, Alphabet unveiled Gemini 4 Argon after months of delays. Then, Alphabet shares dipped around 1% to 1.5%.
+Event 8: On Sep 30, Alphabet unveiled Gemini 4 Argon after months of delays. Then, Alphabet shares +1% on Sep 30, then −1.7% on Oct 1.
 
 Event 9: On Oct 2, G7's 100M-barrel emergency oil release eased Brent crude oil price to $102.25. 
 
