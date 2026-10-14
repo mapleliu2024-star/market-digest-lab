@@ -7,7 +7,7 @@
 - **Headline:** [Broadcom's disappointing guidance led to a large scale of tech stocks selloff]
   <!-- The one-line rule stays: if you can't headline it, you don't understand it yet.
        But complex events get room below. -->
-- **When:** [2026-06-04 ~14:00 ET]
+- **When:** [2026-06-04 ET]
 - **Why it mattered:** [the AI-related stocks dropped sharply]
 - **Category:** [data surprise repricing]
 - **Timeline (optional — for multi-phase events only):** N/A [2–5 dated bullets tracing how the event
