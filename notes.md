@@ -21,9 +21,21 @@ Week 1 review:
 
 (a) What worked better than you expected this week? I can really handle the new apps/platforms even without any experience. I am able to identify and describe market shocks/events on my own. It takes a long time tho, but I overcame the fear. 
 
-(b) What's still confusing or annoying? I am still not very familiar with many financial transmission maps. And I always have trouble describing them in my own words. Sometimes, I cannot completely get the point of the task, so I need a more detailed task description, such as what the purpose of the task is. 
+(b) What's still confusing or annoying? I am still not very familiar with many financial transmission maps. And I always have trouble describing them in my own words. Sometimes I cannot fully understand the task, so I need a more detailed description, such as the task's purpose. 
 
-(c) What do you want to do differently next week? I hope I can have more opportunities to learn a little bit of coding in VS Studio Code. I hope to have more practice for my financial description ability, so that I can speak out loudly without a too long thinking process gradually in the future. 
+(c) What do you want to do differently next week? I hope I can have more opportunities to learn a little bit of coding in VS Studio Code. I hope to have more practice with my financial description skills, so that I can speak out loudly without a long thought process in the future. 
 
 
-2026-10-11: I trust this backfill because _it shows similar levels of VIX and 10Y Treasury yield from my previous records__.
+2026-10-11: I trust this backfill because _it shows similar levels of VIX and 10Y Treasury yield to my previous records__.
+
+2026-10-14: 
+
+1) What do you think about the first two shock cards -- Broadcom and Iran?
+Broadcom event stands for the tech sector, which is a hot topic in recent years. One big move/change in one tech company usually influences the whole tech sector. Iran event stands for the oil issue, which has been a perennial topic in the market. Oil supply issue influences almost every sector. From my perspective, these two events are examples of the hottest topics and have the biggest impact on the market.
+
+2) What assets moved the most together?
+VIX, S&P 500, and tech moved.
+
+3) Did the same assets move the same way on the Iran shock, or flip?
+Gold spiked during the Iran shock, since safe-haven assets perform well in systemic fear. Gold dropped during the Broadcom event due to liquidation-driven selling pressure and rising dollar and 10Y Treasury yields.
+Banks (Financial sector) are procyclical. During the Iran war, oil price went up means inflation surge pressure, which directly increases credit risks of banks. However, as for Broadcom, it was merely an AI-valuation event, not related to the whole economy. Plus, a rising 10Y Treasury yield indicates a widened net interest margin for banks. 
