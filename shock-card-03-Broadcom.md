@@ -1,4 +1,4 @@
-# Shock-card-03-broadcom.md
+# Shock-card-03-Broadcom.md
 
 > A shock card is the standard X-ray you take of every event. Same format every time,
 > so events can be compared side by side on the dashboard later.
