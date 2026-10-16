@@ -1,4 +1,5 @@
-2026-10-06: VIX is too calm during wartime, plus high inflation pressure recently. => Possible reasons: the Iran war will continue, as expected; the Fed will hold rates higher for longer, as expected.
+# 2026-10-06: 
+VIX is too calm during wartime, plus high inflation pressure recently. => Possible reasons: the Iran war will continue, as expected; the Fed will hold rates higher for longer, as expected.
 
 
 ```Series                                          Latest date            Value
@@ -17,7 +18,7 @@ Tip: PAYEMS is in thousands of jobs; M2SL is in billions of dollars.
 Series 1, 2, 6 are more pertinent to the 10 events. The federal funds rate is closely related to the Federal Reserve's primary monetary policy, which determines borrowing costs. CPI index measures the inflation level. It is closely related to the Fed's monetary policy decisions. 10Y Treasury yield is a benchmark for long-term borrowing costs, including mortgage rates and corporate financing. It influences the discount rates used in equity valuation and DCF models.
 
 
-Week 1 review:
+# Week 1 review:
 
 (a) What worked better than you expected this week? I can really handle the new apps/platforms even without any experience. I am able to identify and describe market shocks/events on my own. It takes a long time tho, but I overcame the fear. 
 
@@ -26,9 +27,10 @@ Week 1 review:
 (c) What do you want to do differently next week? I hope I can have more opportunities to learn a little bit of coding in VS Studio Code. I hope to have more practice with my financial description skills, so that I can speak out loudly without a long thought process in the future. 
 
 
-2026-10-11: I trust this backfill because _it shows similar levels of VIX and 10Y Treasury yield to my previous records__.
+# 2026-10-11: 
+I trust this backfill because _it shows similar levels of VIX and 10Y Treasury yield to my previous records__.
 
-2026-10-14: 
+# 2026-10-14: 
 
 1) What do you think about the first two shock cards -- Broadcom and Iran?
 Broadcom event stands for the tech sector, which is a hot topic in recent years. One big move/change in one tech company usually influences the whole tech sector. Iran event stands for the oil issue, which has been a perennial topic in the market. Oil supply issue influences almost every sector. From my perspective, these two events are examples of the hottest topics and have the biggest impact on the market.
@@ -39,3 +41,20 @@ VIX, S&P 500, and tech moved.
 3) Did the same assets move the same way on the Iran shock, or flip?
 Gold spiked during the Iran shock, since safe-haven assets perform well in systemic fear. Gold dropped during the Broadcom event due to liquidation-driven selling pressure and rising dollar and 10Y Treasury yields.
 Banks (Financial sector) are procyclical. During the Iran war, oil price went up means inflation surge pressure, which directly increases credit risks of banks. However, as for Broadcom, it was merely an AI-valuation event, not related to the whole economy. Plus, a rising 10Y Treasury yield indicates a widened net interest margin for banks. 
+
+# 2026-10-16:
+
+a. Which tab should land first — Transmission or Narratives — and why?
+
+Narratives should land first. Because narratives tell the story. After knowing the story, it is much easier to understand or analyze the transmission map.
+
+b. The side-by-side table shows Event 2 vs Event 3's 1-day moves in one glance — keep it, or would you rather feature one card at a time?
+
+I think keep the side-by-side table because it is more convenient and direct for finding the differences or the degree of impact of the two events.
+
+c. The current title is "Market Digest Lab — How Markets Digest the World" — keep it, or your own one-liner?
+
+I will keep this title. 
+
+
+
