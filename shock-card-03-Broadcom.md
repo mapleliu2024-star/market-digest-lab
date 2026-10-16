@@ -40,7 +40,7 @@ _Yields in basis points, everything else in %._
 - Moved within 1 day: [S&P 500, VIX, Tech (XLK), Energy (XLE) moved significantly.]
 - Moved late or not at all: [WTI and gold reacted on day 1 and the drops deepened over the month; S&P 500 and DXY were relatively stable after 1 week and 1 month; VIX gradually went back to normal levels after 1 week and 1 month; 10Y Treasury yield barely moved; Energy (XLE) and Banks (XLF) moved later.]
 
-## Against the textbook (Liu writes this in her own words)
+## Against the textbook
 - **Did markets behave the way theory predicts?** [I don't think this is an event that goes with the textbook theory because AI sector is still developing and the stocks/indexes that are related to AI are usually significantly affected by market expectations.]
 - **What surprised you?** [I underweighted the impact of one company's performance to the whole sector. Broadcom's disappointing performance can cause a big scale of selloff in the whole sector.]
 - _If she can't defend it out loud, it doesn't ship._
