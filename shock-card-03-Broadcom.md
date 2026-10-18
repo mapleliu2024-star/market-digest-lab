@@ -38,17 +38,17 @@ _Yields in basis points, everything else in %._
 
 ## Channels — what moved first, what moved most
 - Moved within 1 day: [S&P 500, VIX, Tech (XLK), Energy (XLE) moved significantly.]
-- Moved late or not at all: [WTI and gold reacted on day 1 and the drops deepened over the month; S&P 500 and DXY were relatively stable after 1 week and 1 month; VIX gradually went back to normal levels after 1 week and 1 month; 10Y Treasury yield barely moved; Energy (XLE) and Banks (XLF) moved later.]
+- Moved late or not at all: [WTI and gold reacted on day 1, and the drops deepened over the month; S&P 500 and DXY were relatively stable after 1 week and 1 month; VIX gradually went back to normal levels after 1 week and 1 month; 10Y Treasury yield barely moved; Energy (XLE) and Banks (XLF) moved later.]
 
 ## Against the textbook
 - **Did markets behave the way theory predicts?** [I don't think this is an event that goes with the textbook theory because AI sector is still developing and the stocks/indexes that are related to AI are usually significantly affected by market expectations.]
-- **What surprised you?** [I underweighted the impact of one company's performance to the whole sector. Broadcom's disappointing performance can cause a big scale of selloff in the whole sector.]
+- **What surprised you?** [I underweighted the impact of one company's performance on the whole sector. Broadcom's disappointing performance can cause a big selloff in the whole sector.]
 - _If she can't defend it out loud, it doesn't ship._
 
 ## Open questions
 - [Did the selloff in the AI sector influence the other sectors?
 Yes. 
-Information Technology sector bore the most damage; sectors like Consumer Discretionary and Communication Services were dragged down due to potential higher interest rate expectations; while sectors like Financials, Healthcare, and Utilities stayed relatively stable. ]
+Information Technology sector bore the most damage; sectors like Consumer Discretionary and Communication Services were dragged down due to potentially higher interest-rates expectations, while sectors like Financials, Healthcare, and Utilities stayed relatively stable. ]
 
 ## You're done when
 - Every [bracket] is filled, no invented numbers, and Liu can explain the card out loud in 60 seconds.
