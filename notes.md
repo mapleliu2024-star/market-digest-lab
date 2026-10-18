@@ -56,5 +56,25 @@ c. The current title is "Market Digest Lab — How Markets Digest the World" —
 
 I will keep this title. 
 
+# 2026-10-18: Check list:
 
+1) events-v1.md MISSING the source link
+
+3) methodology.md PRESENT
+
+5) shock-card-02-Iran.md PRESENT
+
+7) shock-card-03-Broadcom.md PRESENT
+
+9) taxonomy.md PRESENT
+
+11) cluster-review-2026-10-15.md PRESENT
+
+13) backfill-prices-12m.csv PRESENT
+
+14) shock_card.py PRESENT
+
+15) fred_macro.py PRESENT
+
+16) app.py PRESENT
 
