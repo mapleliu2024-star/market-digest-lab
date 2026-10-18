@@ -92,6 +92,8 @@ c. One change you'll make for Sprint 2.
 
 I hope to strengthen my skills in summarizing news and understanding data. 
 
+This week's candidate dominant narrative: still AI costs, another rate hike, and mixed banking Q3 results because AI is still the hot topic and the war in the Middle East is still underway throughout this year.
+
 # Sprint 2 — week 1 targets:
 
 Event 1: 
@@ -105,4 +107,3 @@ Trade wars happen frequently between the U.S. and other countries. Event 4 happe
 Event 5: 
 
 Higher rates for longer is the expectation. From Sep 16 to today (Oct 18), I should have enough data to analyze and better understand the higher rates. Besides, another rate hike is expected by the end of this year, so I may have the chance to compare the two rate hikes then. 
-
