@@ -91,3 +91,14 @@ I feel it is still hard for me to summarize a piece of news or event in one sent
 c. One change you'll make for Sprint 2.
 
 I hope to strengthen my skills in summarizing news and understanding data. 
+
+# Sprint 2 — week 1 targets:
+
+Event 1: 
+
+Event 4:
+
+Event 5: 
+
+
+
