@@ -56,7 +56,7 @@ c. The current title is "Market Digest Lab — How Markets Digest the World" —
 
 I will keep this title. 
 
-# 2026-10-18: Check list:
+# 2026-10-18: Checklist:
 
 1) events-v1.md MISSING the source link
 
@@ -78,3 +78,13 @@ I will keep this title.
 
 16) app.py PRESENT
 
+# Sprint 1 retro:
+
+a. One thing in Sprint 1 that actually worked — a habit, tool, or decision worth keeping.
+I began paying more attention to news. My understanding to news/decisioins/policies/geopolitics is deeper. I am more familiar with GitHub and VS Code.
+
+b. One thing that was confusing or cost more time than it should have.
+I feel it is still hard for me to summarize a piece of news or event in one sentence. I still need more time to extract more useful info from data and tables.
+
+c. One change you'll make for Sprint 2.
+I hope to strengthen my skills in summarizing news and understanding data. 
