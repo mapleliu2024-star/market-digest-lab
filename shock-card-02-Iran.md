@@ -31,8 +31,6 @@ _Yields in basis points, everything else in %._
 **Extended tracking (optional — for events lasting longer than a month):** the war is still underway, and oil price and inflation concerns still exist.
 <!-- The 1D/1W/1M core stays standard so every card is comparable on the dashboard.
      But long events get a second act: add dated snapshots at each turning point. -->
-- [Phase 2 — date + one-line market state, e.g. "Apr 30: Brent peaks $126, equities..."]
-- [Phase 3 — ...]
 
 ## Channels — what moved first, what moved most
 - Moved within 1 day: [Almost every asset moved within one day and one month. But the tech and banks were relatively less affected by the event. The WTI crude, Gold, VIX, and 10Y Treasury yield moved.]
