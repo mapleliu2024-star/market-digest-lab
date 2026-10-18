@@ -8,7 +8,7 @@
   <!-- The one-line rule stays: if you can't headline it, you don't understand it yet.
        But complex events get room below. -->
 - **When:** [2026-02-28 happened, 2026-03-02 market reacted ET]
-- **Why it mattered:** [This war led to oil price surging, inflation pressure soaring globally, and shocked the stock market.]
+- **Why it mattered:** [This war led to oil prices surging, inflation pressure soaring globally, and shocked the stock market.]
 - **Category:** [oil/energy supply fears]
 - **Timeline (optional — for multi-phase events only):** [The war in Iran is still underway.]
 
@@ -28,23 +28,23 @@
 _Fill from `python3 price_pipeline.py` output — never invent numbers._
 _Yields in basis points, everything else in %._
 
-**Extended tracking (optional — for events lasting longer than a month):** the war is still underway, the oil price and inflation concerns still exist.
+**Extended tracking (optional — for events lasting longer than a month):** the war is still underway, and oil price and inflation concerns still exist.
 <!-- The 1D/1W/1M core stays standard so every card is comparable on the dashboard.
      But long events get a second act: add dated snapshots at each turning point. -->
 - [Phase 2 — date + one-line market state, e.g. "Apr 30: Brent peaks $126, equities..."]
 - [Phase 3 — ...]
 
 ## Channels — what moved first, what moved most
-- Moved within 1 day: [Almost every asset moved withing one day and one month. But the tech and banks were relatively less affected by the event. The WTI crude, Gold, VIX, and 10Y Treasury yield moved.]
+- Moved within 1 day: [Almost every asset moved within one day and one month. But the tech and banks were relatively less affected by the event. The WTI crude, Gold, VIX, and 10Y Treasury yield moved.]
 
-## Against the textbook (Liu writes this in her own words)
-- **Did markets behave the way theory predicts?** [Yes. When geopolitical events in the Middle East occur, the oil price surged immediately, then spread to other sectors, and raised inflation concerns globally. ]
-- **What surprised you?** [The impacts of the Iran war were within my expectations, but no one had expected that the Iran war this year could last for over months, I am not excluded.]
+## Against the textbook
+- **Did markets behave the way theory predicts?** [Yes. When geopolitical events in the Middle East occurred, oil prices surged immediately, then spread to other sectors, raising inflation concerns globally. ]
+- **What surprised you?** [The impacts of the Iran war were within my expectations, but no one had expected that the Iran war this year could last for months; I am not excluded.]
 - _If she can't defend it out loud, it doesn't ship._
 
 ## Open questions
 - [Any sectors were not impacted by the Iran war this year?
-No. Every sector was impacted negatively by the Iran war directly or indirectly. But areas like Defense and military contracting benefit from this war.]
+No. Every sector was negatively impacted by the Iran war, directly or indirectly. But areas like Defense and military contracting benefit from this war.]
 
 ## You're done when
 - Every [bracket] is filled, no invented numbers, and Liu can explain the card out loud in 60 seconds.
