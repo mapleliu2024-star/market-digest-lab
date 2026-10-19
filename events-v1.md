@@ -1,8 +1,12 @@
 Event 1: On Jan 8, Trump announced a plan directing Fannie and Freddie to purchase $200 billion of MBS, with the aim of lowering mortgage borrowing costs and improving housing affordability. Russell 2000 +6% in 10 days.
 
 Event 2: On Feb 28, following US-Israeli strikes on Iran, the IRGC announced that ships were not permitted to transit the Strait of Hormuz. In March, Brent crude crossed $100/barrel on Mar 8, the first time since 2022. The rally continued into April, with Brent even reaching $126/barrel on Apr 30.
+https://www.lemonde.fr/en/economy/article/2026/03/01/bombings-in-iran-raise-fears-of-oil-crisis_6750979_19.html
 
 Event 3: On Jun 5, U.S. equities experienced a sharp technology-led sell-off after Broadcom released its guidance on Jun 3, which disappointed investors' expectations, plus strong nonfarm payroll reports increased the odds of a tighter Fed policy (higher interest rates). The Nasdaq Composite declined 4.18%, the S&P 500 dropped 2.64%, the Dow lost 1.35%, and the PHLX semiconductor index plunged approximately 10.3%, its largest one-day percentage decline since March 2020.
+https://finance.yahoo.com/markets/stocks/articles/broadcom-drops-over-10-16-132238762.html
+
+https://www.wsj.com/livecoverage/may-jobs-report-stock-market-06-05-2026
 
 Event 4: On Aug 22, US-Canada trade talks collapsed, triggering an all-out trade war and severely disrupting cross-border supply chains. And Canadian retaliatory tariffs on Sep 8 caused the Dow to fall for two straight weeks.
 
