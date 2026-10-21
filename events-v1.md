@@ -1,4 +1,5 @@
 Event 1: On Jan 8, Trump announced a plan directing Fannie and Freddie to purchase $200 billion of MBS, with the aim of lowering mortgage borrowing costs and improving housing affordability. Russell 2000 +6% in 10 days.
+https://www.wsj.com/finance/regulation/trump-calls-on-fannie-and-freddie-to-buy-200-billion-in-mortgage-bonds-79312e1c?mod=saved_content
 
 Event 2: On Feb 28, following US-Israeli strikes on Iran, the IRGC announced that ships were not permitted to transit the Strait of Hormuz. In March, Brent crude crossed $100/barrel on Mar 8, the first time since 2022. The rally continued into April, with Brent even reaching $126/barrel on Apr 30.
 https://www.lemonde.fr/en/economy/article/2026/03/01/bombings-in-iran-raise-fears-of-oil-crisis_6750979_19.html
@@ -9,10 +10,13 @@ https://finance.yahoo.com/markets/stocks/articles/broadcom-drops-over-10-16-1322
 https://www.wsj.com/livecoverage/may-jobs-report-stock-market-06-05-2026
 
 Event 4: On Aug 22, US-Canada trade talks collapsed, triggering an all-out trade war and severely disrupting cross-border supply chains. And Canadian retaliatory tariffs on Sep 8 caused the Dow to fall for two straight weeks.
+https://www.wsj.com/economy/trade/u-s-to-impose-50-tariffs-on-some-canadian-goods-after-failed-talks-d1510425?mod=Searchresults&pos=19&page=1
 
 Event 5: On Sep 16, due to persistently high inflation pressures, the Fed raised rates by 25 bps to 3.75-4.00%, the first rate rise in three years. However, the 10Y Treasury yield reached a 19-year high (5.003%), and 8/11 S&P sectors fell that day.
+https://www.usatoday.com/story/money/economy/2026/09/16/fed-rate-decision-meeting-updates--live/91746863007/
 
-Event 6: On Sep 18, the Bank of Japan hiked rates to 1.25%, a 31-year high. Because the rate rise was anticipated by the market, Nikkei 225 rose 1.38%, the yen weakened, and bond yields fell. 
+Event 6: On Sep 18, the Bank of Japan hiked rates to 1.25%, a 31-year high. Because the rate rise was anticipated by the market, Nikkei 225 rose 1.38%, the yen weakened, and bond yields fell.
+https://www.businesstimes.com.sg/companies-markets/banking-finance/boj-lifts-interest-rates-31-year-high
 
 Event 7: On Sep 24, after the Trump-Xi summit, the market showed a mixed reaction -- Dow +1.8% that afternoon (NVDA, Apple, Microsoft +2–3%) on "$30B tariff cuts + AI working group" headlines, then CSI 300 −1.7% the next day (worst session in a month) when the actual deliverable turned out to be just a two-month truce extension.
 
