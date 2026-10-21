@@ -7,7 +7,7 @@
 - **Headline:** [Trump’s $200B Mortgage Debt Order Sparks 6% Small-Cap Stock Surge and Knocks Loan Rates Below 6%]
   <!-- The one-line rule stays: if you can't headline it, you don't understand it yet.
        But complex events get room below. -->
-- **When:** [2026-01-08]
+- **When:** [2026-01-08 ET]
 - **Why it mattered:** [This government intervention dragged 30-year mortgage rate below 6%. It sparked a 6% surge in Russel 2000, which indicated a domestic economic boom. Because cheaper mortgages for consumers meant a massive wave of business was heading straight for small companies.]
 - **Category:** [prices soar]
 - **Timeline (optional — for multi-phase events only):** N/A [2–5 dated bullets tracing how the event
