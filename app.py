@@ -1,16 +1,20 @@
-"""app.py — Market Digest Lab dashboard (Day 13, first draft).
+"""app.py — Market Digest Lab dashboard (Day 17 rewire draft).
 
-THE ONE-LINE "WHY": the dashboard is the public face of your Lab. Tab 1 lets
-anyone browse your shock cards (how each event moved the 9 assets); Tab 2 shows
-your narrative labels and the dominant market story of the week.
+THE ONE-LINE "WHY": the dashboard is the public face of your Lab. Tab 1 shows
+your narrative labels and the dominant market story of the week — the STORY
+first. Tab 2 lets anyone browse your shock cards (how each event moved the 9
+assets) — the DATA after. Story before data, per your Day 13 layout call.
 
 HOW TO RUN (on your Mac, just like shock_card.py):
-1. Save this file as app.py in your Market-Digest-Lab folder.
-2. Terminal: pip install streamlit (one time only) -> streamlit run app.py
+1. Save this file as app.py in your Market-Digest-Lab folder (replacing the old one).
+2. Terminal: streamlit run app.py
 3. Your browser opens the dashboard automatically.
 
 GOLDEN RULE: every number below was copied verbatim from your repo files —
 never invent a number, only add real ones.
+
+WHAT CHANGED vs the Day 13 version: ONLY the tab order. Narratives first,
+Transmission Map second. Every number, label, and caption is untouched.
 """
 
 import streamlit as st  # the ONLY extra package you need: pip install streamlit
@@ -31,7 +35,7 @@ def load_data():
 prices = load_data()  # unused for now — the wiring is here for later
 
 # --- YOUR DATA, verbatim from your repo. To add a finished card: paste its ---
-# real table below and add an "elif" branch in Tab 1.
+# real table below and add an "elif" branch in the Transmission Map tab.
 EVENTS = [  # your 15 events, from events-v1.md
     "Event 1 — Jan 8: Fannie/Freddie $200B MBS plan",
     "Event 2 — Feb 28: US-Israel strikes on Iran / Hormuz ban",
@@ -108,10 +112,24 @@ def compare_table(rows_a, rows_b):
     return "\n".join(header + [f"| {a[0]} | {a[1]} | {b[1]} |" for a, b in zip(rows_a, rows_b)])
 
 
-# --- THE TWO TABS — the whole dashboard; everything above is just data ---
-tab1, tab2 = st.tabs(["⚡ Transmission Map", "📰 Narrative Tracker"])
+# --- THE TWO TABS — story first, data second (your Day 13 call) ---
+tab_narr, tab_trans = st.tabs(["📰 Narrative Tracker", "⚡ Transmission Map"])
 
-with tab1:
+with tab_narr:
+    st.header("📰 Narrative Tracker")
+    st.write("The stories investors tell — your 12-label taxonomy, and which story actually ruled the week.")
+    st.subheader("Your 12 narrative labels (from taxonomy.md)")
+    for n, (name, meaning) in enumerate(LABELS, 1):  # enumerate gives 1, 2, 3... automatically
+        st.write(f"**{n}. {name}** — {meaning}")
+    st.divider()
+    st.subheader("Dominant narrative of the week")
+    st.info(f"🗳️ Your call (from your cluster-review-2026-10-15.md):\n\n> {DOMINANT_NARRATIVE}")
+    st.divider()
+    st.subheader("Weekly scorecard (coming soon)")
+    st.write("Future weeks go here: the dominant story vs what prices actually did — "
+             "did the story move markets, or was it just noise?")
+
+with tab_trans:
     st.header("⚡ Transmission Map")
     st.write("One event at a time: what did all 9 assets do after it?")
     choice = st.selectbox("Pick an event", EVENTS)
@@ -133,18 +151,4 @@ with tab1:
     st.write("Same day-one shockwave, two different events — your textbook comparison in one glance.")
     st.markdown(compare_table(CARD_2, CARD_3))
 
-with tab2:
-    st.header("📰 Narrative Tracker")
-    st.write("The stories investors tell — your 12-label taxonomy, and which story actually ruled the week.")
-    st.subheader("Your 12 narrative labels (from taxonomy.md)")
-    for n, (name, meaning) in enumerate(LABELS, 1):  # enumerate gives 1, 2, 3... automatically
-        st.write(f"**{n}. {name}** — {meaning}")
-    st.divider()
-    st.subheader("Dominant narrative of the week")
-    st.info(f"🗳️ Your call (from your cluster-review-2026-10-15.md):\n\n> {DOMINANT_NARRATIVE}")
-    st.divider()
-    st.subheader("Weekly scorecard (coming soon)")
-    st.write("Future weeks go here: the dominant story vs what prices actually did — "
-             "did the story move markets, or was it just noise?")
-
-st.caption("Market Digest Lab — Day 13 skeleton. More cards unlock here as you finish them.")
+st.caption("Market Digest Lab — Day 17 rewire: narratives tab first (your Day 13 call). More cards unlock here as you finish them.")
