@@ -107,3 +107,24 @@ Trade wars happen frequently between the U.S. and other countries. Event 4 happe
 Event 5: 
 
 Higher rates for longer is the expectation. From Sep 16 to today (Oct 18), I should have enough data to analyze and better understand the higher rates. Besides, another rate hike is expected by the end of this year, so I may have the chance to compare the two rate hikes then. 
+
+# 2026-10-23:
+
+## Capture-card verdicts
+
+Meta's stock price fell after it announced plans to increase its AI spending. The market reacted negatively. The market is currently cautious about AI development due to huge debt borrowing and potential risks.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
