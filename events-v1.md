@@ -12,7 +12,7 @@ https://www.wsj.com/livecoverage/may-jobs-report-stock-market-06-05-2026
 Event 4: On Aug 22, US-Canada trade talks collapsed, triggering an all-out trade war and severely disrupting cross-border supply chains. And Canadian retaliatory tariffs on Sep 8 caused the Dow to fall for two straight weeks.
 https://www.wsj.com/economy/trade/u-s-to-impose-50-tariffs-on-some-canadian-goods-after-failed-talks-d1510425?mod=Searchresults&pos=19&page=1
 
-Event 5: On Sep 16, due to persistently high inflation pressures, the Fed raised rates by 25 bps to 3.75-4.00%, the first rate rise in three years. However, the 10Y Treasury yield reached a 19-year high (5.003%), and 8/11 S&P sectors fell that day.
+Event 5: On Sep 16, due to persistently high inflation pressures, the Fed raised rates by 25 bps to 3.75-4.00%, the first rate rise in three years. The 10Y Treasury yield reached a 19-year high (5.003%), and 8/11 S&P sectors fell that day.
 https://www.usatoday.com/story/money/economy/2026/09/16/fed-rate-decision-meeting-updates--live/91746863007/
 
 Event 6: On Sep 18, the Bank of Japan hiked rates to 1.25%, a 31-year high. Because the rate rise was anticipated by the market, Nikkei 225 rose 1.38%, the yen weakened, and bond yields fell.
