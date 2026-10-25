@@ -19,19 +19,28 @@ Event 6: On Sep 18, the Bank of Japan hiked rates to 1.25%, a 31-year high. Beca
 https://www.businesstimes.com.sg/companies-markets/banking-finance/boj-lifts-interest-rates-31-year-high
 
 Event 7: On Sep 24, after the Trump-Xi summit, the market showed a mixed reaction -- Dow +1.8% that afternoon (NVDA, Apple, Microsoft +2–3%) on "$30B tariff cuts + AI working group" headlines, then CSI 300 −1.7% the next day (worst session in a month) when the actual deliverable turned out to be just a two-month truce extension.
+https://www.telegraphindia.com/world/xi-jinping-donald-trump-summit-yields-usd-30-billion-tariff-pact-ai-dialogue-in-eight-point-deal/cid/2181821
 
 Event 8: On Sep 30, Alphabet unveiled Gemini 4 Argon after months of delays. Then, Alphabet shares +1% on Sep 30, then −1.7% on Oct 1.
+https://financefeeds.com/google-gemini-4-argon-2-dollar-alphabet-stock/
 
 Event 9: On Oct 2, G7's 100M-barrel emergency oil release eased Brent crude oil price to $102.25. 
+https://www.wealthprofessional.ca/news/industry-news/g7-taps-emergency-reserves-for-100-million-barrels-of-diesel-and-crude/393692
 
 Event 10: On Oct 2, the weak September jobs report led to the odds of a rate hike falling from 64% to 22%. Because of expected cheaper borrowing costs, S&P jumped 0.7%.
+https://www.bbntimes.com/global-economy/s-p-500-climbs-to-7-722-72-as-weak-september-payrolls-cut-fed-rate-hike-odds
 
 Event 11: From Oct 1 to Nov 12, the U.S. Federal government was shut down for 43 days as Congress failed to pass appropriations legislation for the 2026 fiscal year. The S&P 500 stock index dropped by about 4.2%. However, it recovered and went back up by 3.7% by the end of the year, starting from its lowest point on November 21 after hints that the Federal Reserve might lower interest rates.
+https://economictimes.indiatimes.com/news/international/us/us-government-shutdown-ends-6-facts-all-americans-must-know/articleshow/125303139.cms
 
 Event 12: On October 28, 2025, Microsoft secured a 27% ownership stake in OpenAI as the startup converted into a traditional commercial business valued at $500 billion. Microsoft's stock price hit an all-time record at $542.07. This restructured deal was called a masterclass because it locked in Microsoft's access to OpenAI's tech until 2032 while finally freeing Microsoft to build its own independent super-AI without legal restrictions.
+https://economictimes.indiatimes.com/news/international/us/us-government-shutdown-ends-6-facts-all-americans-must-know/articleshow/125303139.cms
 
 Event 13: On Apr 7, the U.S., Israel, and Iran announced a ceasefire (effective Apr 8), halting attacks and reopening the Strait of Hormuz to commercial shipping. The S&P 500 rose 10.5% in April, fully reversing March's war-driven 7.4% fall.
+https://www.bssnews.net/international/378884
 
 Event 14: On March 17-18, 2026, the Federal Reserve kept its benchmark interest rate at 3.50%–3.75% due to rising inflation risks caused by global energy and geopolitical shocks. Because of this strict stance, investors realized interest rates would stay higher for longer and delayed their expectations for a rate cut from July to September.
+https://economictimes.indiatimes.com/markets/us-stocks/news/fed-meeting-live-us-stock-market-today-dow-jones-nasdaq-sp-500-jerome-powell-fomc-meet-rate-cut-news-iran-israel-war/liveblog/129656253.cms?from=mdr#google_vignette
 
 Event 15: On March 13, 2026, the U.S. government reported that economic growth for the final months of 2025 dropped sharply to a weak 0.7%. This severe slowdown was mostly caused by a historic 43-day government shutdown that froze federal spending and harmed the economy.
+https://www.straitstimes.com/business/economy/us-economic-growth-sharply-lower-than-estimated-in-fourth-quarter
