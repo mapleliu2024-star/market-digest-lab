@@ -119,9 +119,9 @@ This week's dominant story: the story investors were actually telling (AI debt f
 
 The market reacted negatively after Meta released its 2026 Q3 financial reports because of massive AI capital expenditure. This allured huge concern and uncertainty among investors.
 
-The label it maps to: AI spending boom
+The label it maps to: debt fears
 
-Prices agreed / disagreed because: the drop of Meta's stock price already showed the disagreement of the market.
+Prices agreed / disagreed because: Prices agreed because Meta's drop showed investors shared the concern.
 
 
 
