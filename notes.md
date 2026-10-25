@@ -114,7 +114,14 @@ Higher rates for longer is the expectation. From Sep 16 to today (Oct 18), I sho
 
 Meta's stock price fell after it announced plans to increase its AI spending. The market reacted negatively. The market is currently cautious about AI development due to huge debt borrowing and potential risks. (Meta popped +3% after hours Wednesday night, but Thursday's full session reversed it hard — Meta closed at $648.85, down 6.98%, with Reuters and others tying the fall directly to its AI spending plans: ~$825B in future commitments (up from ~$700B in July) and its credit-risk price hitting a record high. Tesla fell by 3.08% on the same day. )
 
+## 2026-10-25:
+This week's dominant story: the story investors were actually telling (AI debt fears? oil supply fears? something else?)
 
+The market reacted negatively after Meta released its 2026 Q3 financial reports because of massive AI capital expenditure. This allured huge concern and uncertainty among investors.
+
+The label it maps to: AI spending boom
+
+Prices agreed / disagreed because: the drop of Meta's stock price already showed the disagreement of the market.
 
 
 
