@@ -75,7 +75,7 @@ Definition: the economic data lands far from expectations, forcing investors to 
 Example headline: September jobs gain of 29,000 badly misses 90,000 forecast; hike odds collapse
 
 
-Label 12: debt fears
+# Label 12: debt fears
 
 Definition: investors worry government borrowing is too high, pushing up yields and threatening fiscal stability.
 Example headline: U.S. interest costs top $1 trillion as national debt climbs
