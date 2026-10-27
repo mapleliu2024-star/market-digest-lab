@@ -123,8 +123,15 @@ The label it maps to: debt fears
 
 Prices agreed / disagreed because: Prices agreed because Meta's drop showed investors shared the concern.
 
+## Fed vs BOJ — two hikes comparison:
 
+BOJ hike moved the US 10Y yield more. 
 
+DXY moved up in both hikes, but more in the Fed hike. 
+
+BOJ hike spilled into US assets, but with limited spillover. Tech +4.49% in the BOJ week, showing the spillover was real but narrow.
+
+The yen was supposed to appreciate after the BOJ raised rates, but it did not because of the 7-2 split vote, which signaled bad news for investors -- a slower hiking path. 
 
 
 
