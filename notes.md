@@ -133,9 +133,25 @@ BOJ hike spilled into US assets, but with limited spillover. Tech +4.49% in the 
 
 The yen was supposed to appreciate after the BOJ raised rates, but it did not because of the 7-2 split vote, which signaled bad news for investors -- a slower hiking path. 
 
+## Capture card — Oct 28:
 
+Verified consensus anchors:
 
+Fed: hold at 3.75–4.00% — that's the current rate after September's hike, and markets widely expect no change. Your surprise test: a cut would be a dovish surprise (rate-cut talk), another hike a hawkish one.
+Microsoft (Q1 FY2027): consensus EPS $4.71, revenue ~$90.6B, Azure growth guide ~45% in constant currency (44–45%), and quarterly capex above $50B. Source: FactSet consensus, carried by several previews. Microsoft's own revenue guide is $89.85–90.95B.
+Alphabet (Q3 2026): consensus EPS ~$3.00–$3.03 (providers range $2.94–$3.04 — note the spread, don't pick one number as gospel), revenue ~$127.8B, Google Cloud growth the line to watch, 2026 capex guide $195–205B. Tip from the previews: Alphabet's headline EPS sometimes includes gains on its private-company stakes (Q2's $9.11 included $6.26 of such gains) — check the other-income line before reacting to the headline.
 
+Your Fed expectation + what would surprise you.
+
+The Fed is expected to have another rate hike by the end of this year. It would surprise me if the Fed did not raise rates under this high inflation pressure. 
+
+Your Microsoft and Alphabet expectations, each with its source (e.g., "FactSet consensus").
+
+I think both Microsoft and Alphabet's stock prices will go down because of investors' fear on growing AI debt. 
+
+One-sentence judgment test: after Meta's −6.98% verdict last week, does AI spending read as confidence or debt risk for Microsoft and Alphabet?
+
+I think it is risk. Because the debt borrowed to fund AI development has already surpassed investors' expectations. 
 
 
 
