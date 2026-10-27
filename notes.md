@@ -142,10 +142,11 @@ Microsoft (Q1 FY2027): consensus EPS $4.71, revenue ~$90.6B, Azure growth guide 
 Alphabet (Q3 2026): consensus EPS ~$3.00–$3.03 (providers range $2.94–$3.04 — note the spread, don't pick one number as gospel), revenue ~$127.8B, Google Cloud growth the line to watch, 2026 capex guide $195–205B. Tip from the previews: Alphabet's headline EPS sometimes includes gains on its private-company stakes (Q2's $9.11 included $6.26 of such gains) — check the other-income line before reacting to the headline.
 
 Your Fed expectation + what would surprise you.
-Due to persistently high inflation, I shared the view of most investors that the Fed would raise rates. It would surprise me if the Fed did not raise rates under this high inflation pressure. 
+Due to persistently high inflation, I shared the view of most investors that the Fed would raise rates one more time by the end of this year. It would surprise me if the Fed did not raise rates under this high inflation pressure. 
 
 Your Microsoft and Alphabet expectations, each with its source (e.g., "FactSet consensus").
-I think both Microsoft and Alphabet's stock prices will go down because of investors' fear on growing AI debt. 
+"I expect Microsoft to report EPS ~$4.71 and revenue ~$90.6B, with Azure growth ~45% and quarterly capex above $50B (FactSet consensus)."
+"I expect Alphabet to report EPS ~$3.00–$3.03 and revenue ~$127.8B, with Google Cloud growth the line to watch (FactSet consensus)."
 
 One-sentence judgment test: after Meta's −6.98% verdict last week, does AI spending read as confidence or debt risk for Microsoft and Alphabet?
 I think it is risk. Because the debt borrowed to fund AI development has already surpassed investors' expectations. 
