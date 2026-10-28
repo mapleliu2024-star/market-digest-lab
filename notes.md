@@ -151,8 +151,16 @@ Your Microsoft and Alphabet expectations, each with its source (e.g., "FactSet c
 One-sentence judgment test: after Meta's −6.98% verdict last week, does AI spending read as confidence or debt risk for Microsoft and Alphabet?
 I think it is risk. Because the debt borrowed to fund AI development has already surpassed investors' expectations. 
 
+## Comparison Event 4 & 7:
 
+4–6 sentences in your own words comparing how the S&P, gold, and the 10-year moved in each case, which channels carried the shock, and the one result that surprised you most.
 
+S&P 500 changed little in both cases, but went up in the Canada event and went down in the China event. Gold plunged in both events significantly. In the Canada event, the 10Y Treasury yield rose significantly after one month. In the China event, the 10Y Treasury yield rose, then fell. 
 
+Channels:
+In the Canada event, the shock traveled through the dollar. Investors ran to the dollar for safety, so the dollar went up, and gold went down because gold is priced in dollars. 
+In the China summit event, the shock traveled through oil and fear. Oil and the fear gauge jumped on the first day, and after one month energy stocks and fear were both much higher.
 
+Surprise:
+What surprised me most is that gold fell a lot in both events. I thought gold would only fall when the news was bad. But even in the summit event, which was good news, gold still fell 6.48% in a month, because investors sold it to raise cash.
 
