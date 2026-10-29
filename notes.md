@@ -164,3 +164,13 @@ In the China summit event, the shock traveled through oil and fear. Oil and the 
 Surprise:
 What surprised me most is that gold fell a lot in both events. I thought gold would only fall when the news was bad. But even in the summit event, which was good news, gold still fell 6.48% in a month, because investors sold it to raise cash.
 
+## First verdict (after-hours only — NOT final):
+
+Fed: The Fed held rates at 3.75%–4.00%, as expected. A December hike is expected.
+
+Microsoft: The actual revenue and EPS of Microsoft are higher than my anchor. Cash capex is lower than expected. [Revenue $92.3B (your anchor ~$90.6B), adjusted EPS $4.89 (your anchor $4.71), Azure up 48% (your anchor ~45%). Cash capex was $39.4B, below the ~$45.9B expected. Shares rose about 2.5% after hours. My debt-fear call was wrong for Microsoft, on this first read.]
+
+Alphabet: Alphabet's Q3 revenue, EPS, and capex all missed the market's expectations. [Revenue $127.6B (your anchor ~$127.8B, a small miss), EPS $2.12 (your anchor ~$3.00–$3.03, a big miss), capex $51.4B, and free cash flow negative $9.1B. Shares fell roughly 8% after hours. My debt-fear call was right for Alphabet, on this first read — even though Cloud doubled.]
+
+What Friday decides: the full US session (Thursday 21:30 to Friday 04:00 Beijing time) is the final verdict. After-hours is only the first read.
+
