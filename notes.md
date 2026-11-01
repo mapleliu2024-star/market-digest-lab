@@ -183,3 +183,29 @@ Microsoft: FINAL: Microsoft beat expectations and spent less than feared, but th
 Alphabet: FINAL: Alphabet missed, spent $51.4B, and its cash flow went negative, and the full session fell further than the first read (−12.64%). My debt-fear call was right, and stronger in the final read — even though Cloud doubled.
 
 Thursday's full session also absorbed strong GDP (3.4%) and sticky PCE inflation (3.6%), which kept a December hike live — the final verdict grades earnings and hot data together.
+
+## Amazon Read: 
+
+Amazon missed on earnings even though AWS grew 39%. Amazon was punished by the market due to debt fears. Shares fell about 7% after hours, then recovered most of it in the full session, closing Friday at $240.35, down 1.41%. 
+
+## BOJ FIRST:
+
+The Bank of Japan held at 1.25% by 8–1, with Takata dissenting for 1.50%. Underlying inflation has reached the 2% target. More hikes are possible. The yen strengthened slightly to about 157.2–157.4. No expectation line was written for this decision — the BOJ announced before I wrote one, so this is a first read only.
+
+## Sprint 2 retro:
+
+(a) What worked best in Sprint 2? 
+I am more proficient in the whole process of building shock cards. I am better at summarizing an event.
+
+(b) What surprised you most? 
+Each sector is closely connected to some degree. It is really important to thoroughly take multiple sectors into consideration when analyzing one event.
+
+(c) What do you want to change for Sprint 3?
+I hope to have some suggestions or tips on how to better complete each task. For example, I am only capable of using simple sentences to summarize or describe an event or question, but Muse can give me detailed tips on how to better structure or answer a question. 
+
+## 2026-11-01: 
+=> debt fear
+
+This week, the market's main story was that AI spending has become a debt story. Investors stopped asking how fast cloud is growing and started asking who pays for the buildout, and with what cash. Debt fears are haunting the market. 
+
+Alphabet fell 12.64% on Thursday, Amazon fell 1.41% on Friday after a 7% after-hours fall, Intel fell about 28–29% on Friday, and the Nasdaq fell 2.86% on Friday, its worst day since June. Microsoft, the one that beat expectations and closed flat, is the exception.
