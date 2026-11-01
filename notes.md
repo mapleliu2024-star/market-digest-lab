@@ -174,3 +174,12 @@ Alphabet: Alphabet's Q3 revenue, EPS, and capex all missed the market's expectat
 
 What Friday decides: the full US session (Thursday 21:30 to Friday 04:00 Beijing time) is the final verdict. After-hours is only the first read.
 
+## Final verdict (full session — FINAL):
+
+Fed: FINAL: The Fed held rates at 3.75%–4.00%, as expected, and Wednesday stayed quiet. The December hike is expected. 
+
+Microsoft: FINAL: Microsoft beat expectations and spent less than feared, but the full session gave back the after-hours gain and closed essentially flat (−0.16%). My debt-fear call was wrong on the first read, and the final read is flatter still: the market did not reward the beat in the full session.
+
+Alphabet: FINAL: Alphabet missed, spent $51.4B, and its cash flow went negative, and the full session fell further than the first read (−12.64%). My debt-fear call was right, and stronger in the final read — even though Cloud doubled.
+
+Thursday's full session also absorbed strong GDP (3.4%) and sticky PCE inflation (3.6%), which kept a December hike live — the final verdict grades earnings and hot data together.
