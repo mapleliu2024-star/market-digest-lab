@@ -209,3 +209,13 @@ I hope to have some suggestions or tips on how to better complete each task. For
 This week, the market's main story was that AI spending has become a debt story. Investors stopped asking how fast cloud is growing and started asking who pays for the buildout, and with what cash. Debt fears are haunting the market. 
 
 Alphabet fell 12.64% on Thursday, Amazon fell 1.41% on Friday after a 7% after-hours fall, Intel fell about 28–29% on Friday, and the Nasdaq fell 2.86% on Friday, its worst day since June. Microsoft, the one that beat expectations and closed flat, is the exception.
+
+## Apple capture card — expectations written Nov 2 (before the print):
+
+Expected EPS about $1.99 and revenue about $113.4B for the September quarter (consensus, MarketBeat / TipRanks).
+Apple's own guidance: revenue growth 9–11% year over year, gross margin 47–48% (that margin includes about 1 point of benefit from tariff refunds).
+Note: a few trackers show slightly lower figures (~$1.98 / ~$113.0B) — the bar is about $1.99 / $113.4B, not a single exact number.
+
+Apple is the control group for the debt-fear test. It did not fund an AI buildout with debt. If Apple holds up while Microsoft, Alphabet, Meta and Amazon fell because of the debt fear, the story is about how to pay off the debt.
+
+Two separate grades: (a) the September quarter — the numbers tonight; (b) the December-quarter guide — what Apple says comes next. Watch the guide most: memory-chip costs are rising and supply is tight.
