@@ -18,19 +18,19 @@
 Event: G7 100M-barrel emergency oil release (2026-10-02)
 Market day used: 2026-10-02 | 'Before' close: 2026-10-01
 1-week target: 2026-10-09
-1-month target: n/a — your file ends 2026-10-30
+1-month target: 2026-11-03
 
 | Asset | 1-day | 1-week | 1-month |
 |-------|-------|--------|---------|
-| S&P 500 | +0.73% | +1.89% | n/a |
-| WTI crude | -1.90% | -1.10% | n/a |
-| Gold | -0.95% | +0.33% | n/a |
-| DXY (dollar index) | -0.17% | +0.11% | n/a |
-| VIX (fear gauge) | -6.59% | -9.46% | n/a |
-| 10Y Treasury yield | +4 bps | +1 bps | n/a |
-| Tech (XLK) | +1.01% | +0.49% | n/a |
-| Energy (XLE) | +0.19% | +3.80% | n/a |
-| Banks (XLF) | +0.06% | +2.38% | n/a |
+| S&P 500 | +0.73% | +1.89% | -1.27% |
+| WTI crude | -1.90% | -1.10% | +2.56% |
+| Gold | -0.95% | +0.33% | -6.19% |
+| DXY (dollar index) | -0.17% | +0.11% | -0.76% |
+| VIX (fear gauge) | -6.59% | -9.46% | +27.09% |
+| 10Y Treasury yield | +4 bps | +1 bps | -28 bps |
+| Tech (XLK) | +1.01% | +0.49% | -10.77% |
+| Energy (XLE) | +0.19% | +3.80% | +6.35% |
+| Banks (XLF) | +0.06% | +2.38% | +6.98% |
 
 _Fill from `python3 price_pipeline.py` output — never invent numbers._
 _Yields in basis points, everything else in %._
@@ -45,7 +45,7 @@ _Yields in basis points, everything else in %._
 - Moved within 1 day: [WTI crude dropped after the oil release. VIX dropped.]
 - Moved late or not at all: [VIX dropped more after one week. S&P 500, XLE, and XLF went up after one week. Gold, DXY, 10Y Treasury yield, and XLK barely moved.]
 
-## Against the textbook (Liu writes this in her own words)
+## Against the textbook
 - **Did markets behave the way theory predicts?** [Yes and no. After the oil release, the market became less paniced. So, VIX and WTI both dropped. Inflation pressure was also eased among countries. Sectors like XLK, XLE, and XLF all went up because of elevated confidence to the market. However, since the Middle East war is still underway, this action was not a permanent solution or change to the whole market. Otherwise, a massive supply injection should permanently shift the supply curve and lower equilibrium price.]
 - **What surprised you?** [Combined with escalating geopolitical tensions in the Middle East and a strict ban on Russian fuel exports, Brent crude shocked the market by aggressively reversing its initial decline and rocketing past $117 per barrel by late October.]
 - _If she can't defend it out loud, it doesn't ship._
