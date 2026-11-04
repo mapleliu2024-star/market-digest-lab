@@ -18,19 +18,19 @@
 Event: Alphabet -1.7% (Gemini 4 Argon reaction) (2026-10-01)
 Market day used: 2026-10-01 | 'Before' close: 2026-09-30
 1-week target: 2026-10-08
-1-month target: n/a — your file ends 2026-10-27
+1-month target: 2026-11-02
 
 | Asset | 1-day | 1-week | 1-month |
 |-------|-------|--------|---------|
-| S&P 500 | +0.19% | +1.49% | n/a |
-| WTI crude | +2.71% | +1.18% | n/a |
-| Gold | +0.37% | -0.71% | n/a |
-| DXY (dollar index) | +0.64% | +0.68% | n/a |
-| VIX (fear gauge) | +0.31% | -5.69% | n/a |
-| 10Y Treasury yield | -6 bps | -6 bps | n/a |
-| Tech (XLK) | +1.05% | +1.04% | n/a |
-| Energy (XLE) | +1.95% | +6.08% | n/a |
-| Banks (XLF) | +0.11% | +1.55% | n/a |
+| S&P 500 | +0.19% | +1.49% | -1.44% |
+| WTI crude | +2.71% | +1.18% | +6.68% |
+| Gold | +0.37% | -0.71% | -5.19% |
+| DXY (dollar index) | +0.64% | +0.68% | +0.30% |
+| VIX (fear gauge) | +0.31% | -5.69% | +29.44% |
+| 10Y Treasury yield | -6 bps | -6 bps | -40 bps |
+| Tech (XLK) | +1.05% | +1.04% | -11.00% |
+| Energy (XLE) | +1.95% | +6.08% | +9.35% |
+| Banks (XLF) | +0.11% | +1.55% | +7.79% |
 
 _Fill from `python3 price_pipeline.py` output — never invent numbers._
 _Yields in basis points, everything else in %._
@@ -43,7 +43,7 @@ _Yields in basis points, everything else in %._
 
 ## Channels — what moved first, what moved most
 - Moved within 1 day: [XLK moved first. WTI and XLE moved too but were not diretly caused by the Alphabet.]
-- Moved late or not at all: [S&P 500, DXY, and XLF moved little. VIX dropped after one week.]
+- Moved late or not at all: [S&P 500, DXY, and XLF moved little. VIX dropped after one week. XLK dropped after one month. XLE and XLF both went up after one month.]
 
 ## Against the textbook
 - **Did markets behave the way theory predicts?** [Yes. Alphabet is a company in the tech sector. Its movement influenced the Tech (XLK) index mostly. But this event had little impact on other assets.]
