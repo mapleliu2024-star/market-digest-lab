@@ -78,6 +78,8 @@ I will keep this title.
 
 16) app.py PRESENT
 
+## The 1-month column shows what the market did that month, not what the event caused. When a late move belongs to another story, name it.
+
 # Sprint 1 retro:
 
 a. One thing in Sprint 1 that actually worked — a habit, tool, or decision worth keeping.
