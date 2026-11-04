@@ -204,7 +204,7 @@ Each sector is closely connected to some degree. It is really important to thoro
 I hope to have some suggestions or tips on how to better complete each task. For example, I am only capable of using simple sentences to summarize or describe an event or question, but Muse can give me detailed tips on how to better structure or answer a question. 
 
 ## 2026-11-01: 
-=> debt fear
+=> Label 12 debt fears
 
 This week, the market's main story was that AI spending has become a debt story. Investors stopped asking how fast cloud is growing and started asking who pays for the buildout, and with what cash. Debt fears are haunting the market. 
 
@@ -219,3 +219,11 @@ Note: a few trackers show slightly lower figures (~$1.98 / ~$113.0B) — the bar
 Apple is the control group for the debt-fear test. It did not fund an AI buildout with debt. If Apple holds up while Microsoft, Alphabet, Meta and Amazon fell because of the debt fear, the story is about how to pay off the debt.
 
 Two separate grades: (a) the September quarter — the numbers tonight; (b) the December-quarter guide — what Apple says comes next. Watch the guide most: memory-chip costs are rising and supply is tight.
+
+FIRST: after hours settled about −2.75% ($329.01) vs Monday's $338.32 close.
+
+FINAL: Apple closed $331.90, −1.90% on Tuesday. September quarter: beat — revenue $114.5B vs ~$113.39B expected, EPS $2.10 vs $1.99, iPhone $57.58B (a September-quarter record), Services $31.57B (all-time high). December guide: soft — revenue growth 7–10% vs 11.4% expected, gross margin 45–46% (down from 47.9%), Services growth 8–9%, with CEO John Ternus calling the memory-price increases "unprecedented".
+
+September quarter = beat; December guide = miss
+
+Apple fell 1.9% on Tuesday, but not on debt fear — the September quarter beat, and the market sold the December margin guide instead, so Apple stays a clean control group: debt fears hit the borrowers, margin fears hit Apple.
