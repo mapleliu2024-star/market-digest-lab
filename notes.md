@@ -238,9 +238,11 @@ Why the market expects a hike: September inflation (CPI) was 3.5%, well above th
 
 Because of persistent inflation pressure, the market expects a hike from the Bank of England. Since this hike is expected, the market probably cares more about how long the rates will stay high or whether another hike is expected. 
 
+## Qualcomm and Arm FIRST verdict lines:
 
+Qualcomm FIRST (Nov 4, after hours): beat — revenue about $10.4B vs about $10.1B expected, adjusted EPS $2.17 vs $2.16 — but shares fell after hours. The guide was the problem: next-quarter profit guidance came in a little light, and full-year spending (capex) of about $2.5B ran well above the roughly $1.9B expected. Early reports put the after-hours fall anywhere from about 2% to about 5% — the number moved during the evening — so I am recording the direction, not a final figure, until the full session.
 
+Arm FIRST (Nov 4, after hours): beat — revenue $1.44B vs $1.38B expected, adjusted EPS $0.52 vs $0.47 — but shares fell after hours. Early reports put the fall between about 2% and 5% (the number moved during the evening), so I am recording the direction, not a final figure, until the full session.
 
-
-
+Both Qualcomm and Arm's revenue beat the market's expectations, but shares fell after hours. But because of debt fear, the market cares more about who will pay off the AI borrowing instead of the growth of sales. 
 
