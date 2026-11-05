@@ -10,9 +10,7 @@
 - **When:** [Guidance released Jun 3; selloff measured Jun 5, 2026 ET]
 - **Why it mattered:** [the AI-related stocks dropped sharply]
 - **Category:** [data surprise repricing]
-- **Timeline (optional — for multi-phase events only):** N/A [2–5 dated bullets tracing how the event
-  unfolded, e.g. "Feb 28: strikes begin → Mar 8: Brent breaks $100 → Apr 30: Brent peaks $126".
-  Skip this for single-moment shocks like a jobs report.]
+- **Timeline (optional — for multi-phase events only):** N/A 
 
 ## Transmission snapshot
 | Asset | 1-day | 1-week | 1-month |
@@ -31,8 +29,6 @@ _Fill from `python3 price_pipeline.py` output — never invent numbers._
 _Yields in basis points, everything else in %._
 
 **Extended tracking (optional — for events lasting longer than a month):** N/A
-<!-- The 1D/1W/1M core stays standard so every card is comparable on the dashboard.
-     But long events get a second act: add dated snapshots at each turning point. -->
 
 ## Channels — what moved first, what moved most
 - Moved within 1 day: [S&P 500, VIX, Tech (XLK), Energy (XLE) moved significantly.]
