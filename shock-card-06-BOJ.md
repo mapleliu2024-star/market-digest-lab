@@ -10,9 +10,7 @@
 - **When:** [2026-09-18 ET]
 - **Why it mattered:** [Raising interest rates led to a weaker yen instead, because of a 7-2 split vote, which indicated a less aggressive future path. This action also highlighted the global geopolitical tense.]
 - **Category:** [higher for longer]
-- **Timeline (optional — for multi-phase events only):** N/A [2–5 dated bullets tracing how the event
-  unfolded, e.g. "Feb 28: strikes begin → Mar 8: Brent breaks $100 → Apr 30: Brent peaks $126".
-  Skip this for single-moment shocks like a jobs report.]
+- **Timeline (optional — for multi-phase events only):** N/A 
 
 ## Transmission snapshot
 Event: BOJ hikes to 1.25% (2026-09-18)
@@ -37,10 +35,6 @@ _Fill from `python3 price_pipeline.py` output — never invent numbers._
 _Yields in basis points, everything else in %._
 
 **Extended tracking (optional — for events lasting longer than a month):** N/A
-<!-- The 1D/1W/1M core stays standard so every card is comparable on the dashboard.
-     But long events get a second act: add dated snapshots at each turning point. -->
-- [Phase 2 — date + one-line market state, e.g. "Apr 30: Brent peaks $126, equities..."]
-- [Phase 3 — ...]
 
 ## Channels — what moved first, what moved most
 - Moved within 1 day: [VIX moved within 1 day.]
