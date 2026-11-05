@@ -10,9 +10,7 @@
 - **When:** [2026-09-16 ET]
 - **Why it mattered:** [Due to persistent high inflation, raising rates is adding pressure to the 10Y Treasury yield and shaking the stock market, 8 out of 11 S&P sectors fell that day. Plus the Middle East War continues to fuel inflation, which indicates higher rates for longer. This went against the Fed's initial intention.]
 - **Category:** [higher for longer]
-- **Timeline (optional — for multi-phase events only):** N/A [2–5 dated bullets tracing how the event
-  unfolded, e.g. "Feb 28: strikes begin → Mar 8: Brent breaks $100 → Apr 30: Brent peaks $126".
-  Skip this for single-moment shocks like a jobs report.]
+- **Timeline (optional — for multi-phase events only):** N/A 
 
 ## Transmission snapshot
 Event: Fed +25bps to 3.75-4.00% (2026-09-16)
@@ -36,10 +34,6 @@ _Fill from `python3 price_pipeline.py` output — never invent numbers._
 _Yields in basis points, everything else in %._
 
 **Extended tracking (optional — for events lasting longer than a month):** N/A
-<!-- The 1D/1W/1M core stays standard so every card is comparable on the dashboard.
-     But long events get a second act: add dated snapshots at each turning point. -->
-- [Phase 2 — date + one-line market state, e.g. "Apr 30: Brent peaks $126, equities..."]
-- [Phase 3 — ...]
 
 ## Channels — what moved first, what moved most
 - Moved within 1 day: [WTI crude, Gold, VIX, XLE, XLF]
