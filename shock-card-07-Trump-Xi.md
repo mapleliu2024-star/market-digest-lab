@@ -10,9 +10,7 @@
 - **When:** [Summit Sep 24; CSI 300 reaction Sep 25]
 - **Why it mattered:** [The outcomes from this summit will influence the direction of future trades, currency prices between the largest two economies in the world.]
 - **Category:** [data surprise repricing]
-- **Timeline (optional — for multi-phase events only):** N/A [2–5 dated bullets tracing how the event
-  unfolded, e.g. "Feb 28: strikes begin → Mar 8: Brent breaks $100 → Apr 30: Brent peaks $126".
-  Skip this for single-moment shocks like a jobs report.]
+- **Timeline (optional — for multi-phase events only):** N/A 
 
 ## Transmission snapshot
 Event: Trump-Xi summit mixed reaction (2026-09-24)
@@ -36,10 +34,6 @@ _Fill from `python3 price_pipeline.py` output — never invent numbers._
 _Yields in basis points, everything else in %._
 
 **Extended tracking (optional — for events lasting longer than a month):** N/A
-<!-- The 1D/1W/1M core stays standard so every card is comparable on the dashboard.
-     But long events get a second act: add dated snapshots at each turning point. -->
-- [Phase 2 — date + one-line market state, e.g. "Apr 30: Brent peaks $126, equities..."]
-- [Phase 3 — ...]
 
 ## Channels — what moved first, what moved most
 - Moved within 1 day: [WTI and VIX moved significantly within one day.]
