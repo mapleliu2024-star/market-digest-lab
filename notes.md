@@ -229,3 +229,18 @@ FINAL: Apple closed $331.90, −1.90% on Tuesday. September quarter: beat — re
 September quarter = beat; December guide = miss
 
 Apple fell 1.9% on Tuesday, but not on debt fear — the September quarter beat, and the market sold the December margin guide instead, so Apple stays a clean control group: debt fears hit the borrowers, margin fears hit Apple.
+
+## Bank of England expectation line: 
+
+Bank of England expectation (Nov 5, 20:00 Beijing): raise Bank Rate from 3.75% to 4.00% — 54 of 63 economists in the Reuters poll (Oct 12–14) expect a 25-basis-point hike; markets price roughly a 94–96% chance. It would be the first hike since August 2023.
+
+Why the market expects a hike: September inflation (CPI) was 3.5%, well above the Bank's 2% target, and soaring energy costs are pushing inflation up.
+
+Because of persistent inflation pressure, the market expects a hike from the Bank of England. Since this hike is expected, the market probably cares more about how long the rates will stay high or whether another hike is expected. 
+
+
+
+
+
+
+
