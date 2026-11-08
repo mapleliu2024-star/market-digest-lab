@@ -78,7 +78,7 @@ I will keep this title.
 
 16) app.py PRESENT
 
-## The 1-month column shows what the market did that month, not what the event caused. When a late move belongs to another story, name it.
+# The 1-month column shows what the market did that month, not what the event caused. When a late move belongs to another story, name it.
 
 # Sprint 1 retro:
 
@@ -116,7 +116,7 @@ Higher rates for longer is the expectation. From Sep 16 to today (Oct 18), I sho
 
 Meta's stock price fell after it announced plans to increase its AI spending. The market reacted negatively. The market is currently cautious about AI development due to huge debt borrowing and potential risks. (Meta popped +3% after hours Wednesday night, but Thursday's full session reversed it hard — Meta closed at $648.85, down 6.98%, with Reuters and others tying the fall directly to its AI spending plans: ~$825B in future commitments (up from ~$700B in July) and its credit-risk price hitting a record high. Tesla fell by 3.08% on the same day. )
 
-## 2026-10-25:
+# 2026-10-25:
 This week's dominant story: the story investors were actually telling (AI debt fears? oil supply fears? something else?)
 
 The market reacted negatively after Meta released its 2026 Q3 financial reports because of massive AI capital expenditure. This allured huge concern and uncertainty among investors.
@@ -135,7 +135,7 @@ BOJ hike spilled into US assets, but with limited spillover. Tech +4.49% in the 
 
 The yen was supposed to appreciate after the BOJ raised rates, but it did not because of the 7-2 split vote, which signaled bad news for investors -- a slower hiking path. 
 
-## Capture card — Oct 28:
+# Capture card — Oct 28:
 
 Verified consensus anchors:
 
@@ -153,7 +153,7 @@ Your Microsoft and Alphabet expectations, each with its source (e.g., "FactSet c
 One-sentence judgment test: after Meta's −6.98% verdict last week, does AI spending read as confidence or debt risk for Microsoft and Alphabet?
 I think it is risk. Because the debt borrowed to fund AI development has already surpassed investors' expectations. 
 
-## Comparison Event 4 & 7:
+# Comparison Event 4 & 7:
 
 4–6 sentences in your own words comparing how the S&P, gold, and the 10-year moved in each case, which channels carried the shock, and the one result that surprised you most.
 
@@ -166,7 +166,7 @@ In the China summit event, the shock traveled through oil and fear. Oil and the 
 Surprise:
 What surprised me most is that gold fell a lot in both events. I thought gold would only fall when the news was bad. But even in the summit event, which was good news, gold still fell 6.48% in a month, because investors sold it to raise cash.
 
-## First verdict (after-hours only — NOT final):
+# First verdict (after-hours only — NOT final):
 
 Fed: The Fed held rates at 3.75%–4.00%, as expected. A December hike is expected.
 
@@ -176,7 +176,7 @@ Alphabet: Alphabet's Q3 revenue, EPS, and capex all missed the market's expectat
 
 What Friday decides: the full US session (Thursday 21:30 to Friday 04:00 Beijing time) is the final verdict. After-hours is only the first read.
 
-## Final verdict (full session — FINAL):
+# Final verdict (full session — FINAL):
 
 Fed: FINAL: The Fed held rates at 3.75%–4.00%, as expected, and Wednesday stayed quiet. The December hike is expected. 
 
@@ -186,15 +186,15 @@ Alphabet: FINAL: Alphabet missed, spent $51.4B, and its cash flow went negative,
 
 Thursday's full session also absorbed strong GDP (3.4%) and sticky PCE inflation (3.6%), which kept a December hike live — the final verdict grades earnings and hot data together.
 
-## Amazon Read: 
+# Amazon Read: 
 
 Amazon missed on earnings even though AWS grew 39%. Amazon was punished by the market due to debt fears. Shares fell about 7% after hours, then recovered most of it in the full session, closing Friday at $240.35, down 1.41%. 
 
-## BOJ FIRST:
+# BOJ FIRST:
 
 The Bank of Japan held at 1.25% by 8–1, with Takata dissenting for 1.50%. Underlying inflation has reached the 2% target. More hikes are possible. The yen strengthened slightly to about 157.2–157.4. No expectation line was written for this decision — the BOJ announced before I wrote one, so this is a first read only.
 
-## Sprint 2 retro:
+# Sprint 2 retro:
 
 (a) What worked best in Sprint 2? 
 I am more proficient in the whole process of building shock cards. I am better at summarizing an event.
@@ -205,14 +205,14 @@ Each sector is closely connected to some degree. It is really important to thoro
 (c) What do you want to change for Sprint 3?
 I hope to have some suggestions or tips on how to better complete each task. For example, I am only capable of using simple sentences to summarize or describe an event or question, but Muse can give me detailed tips on how to better structure or answer a question. 
 
-## 2026-11-01: 
+# 2026-11-01: 
 => Label 12 debt fears
 
 This week, the market's main story was that AI spending has become a debt story. Investors stopped asking how fast cloud is growing and started asking who pays for the buildout, and with what cash. Debt fears are haunting the market. 
 
 Alphabet fell 12.64% on Thursday, Amazon fell 1.41% on Friday after a 7% after-hours fall, Intel fell about 28–29% on Friday, and the Nasdaq fell 2.86% on Friday, its worst day since June. Microsoft, the one that beat expectations and closed flat, is the exception.
 
-## Apple capture card — expectations written Nov 2 (before the print):
+# Apple capture card — expectations written Nov 2 (before the print):
 
 Expected EPS about $1.99 and revenue about $113.4B for the September quarter (consensus, MarketBeat / TipRanks).
 Apple's own guidance: revenue growth 9–11% year over year, gross margin 47–48% (that margin includes about 1 point of benefit from tariff refunds).
