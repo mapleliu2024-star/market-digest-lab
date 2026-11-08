@@ -238,6 +238,12 @@ Why the market expects a hike: September inflation (CPI) was 3.5%, well above th
 
 Because of persistent inflation pressure, the market expects a hike from the Bank of England. Since this hike is expected, the market probably cares more about how long the rates will stay high or whether another hike is expected. 
 
+# Final Line:
+
+The Bank raised rates to 4.00% as expected, 8–1 vote (Mann wanted a bigger 50bp rise); December hike odds rose to about 50% (from ~30%); the 10-year gilt yield rose 3bp to 5.17%; the pound barely moved ($1.3473 vs $1.3464); the FTSE fell 0.43% to 10,782.66, mostly dragged by the US selloff.
+
+My expectation was right — the market moved on the next-hikes news, not the hike itself, because the 8–1 vote and the December odds rising to about 50% kept more hikes priced in.
+
 ## Qualcomm and Arm FIRST verdict lines:
 
 Qualcomm FIRST (Nov 4, after hours): beat — revenue about $10.4B vs about $10.1B expected, adjusted EPS $2.17 vs $2.16 — but shares fell after hours. The guide was the problem: next-quarter profit guidance came in a little light, and full-year spending (capex) of about $2.5B ran well above the roughly $1.9B expected. Early reports put the after-hours fall anywhere from about 2% to about 5% — the number moved during the evening — so I am recording the direction, not a final figure, until the full session.
@@ -245,4 +251,32 @@ Qualcomm FIRST (Nov 4, after hours): beat — revenue about $10.4B vs about $10.
 Arm FIRST (Nov 4, after hours): beat — revenue $1.44B vs $1.38B expected, adjusted EPS $0.52 vs $0.47 — but shares fell after hours. Early reports put the fall between about 2% and 5% (the number moved during the evening), so I am recording the direction, not a final figure, until the full session.
 
 Both Qualcomm and Arm's revenue beat the market's expectations, but shares fell after hours. But because of debt fear, the market cares more about who will pay off the AI borrowing instead of the growth of sales. 
+
+# Final Line: 
+
+Qualcomm $156.75, −9.5%; Arm $166.72, −13.1%; Nasdaq −5.5%, its worst day since April 2025; the chip index (SOX — the index that tracks chip-makers) −12.3%.
+
+Both Qualcomm and Arm's revenue beat the market's expectations, but shares fell hard in the full session. But because of debt fear, the market cares more about who will pay off the AI borrowing instead of the growth of sales.
+
+## Jobs report — October: 
+
+# First Line:
+
+Jobs came in much stronger than expected: +165,000 new jobs in October vs about 65,000 expected, unemployment 4.1% vs 4.2% expected, wages +0.4% vs +0.3%. First read: strong hiring keeps pressure on prices, so a December rate hike looks more likely.
+
+# Final Line:
+
+September jobs revised up to 60,000. October jobs came up much higher than expected. Stocks ended higher. A December hike is now like a certain event.
+
+## Week of Nov 2–8 — scorecard:
+
+Label 12 'debt fears' — the fear about who pays for the AI spending:
+
+The market is concerned about the debt fear caused by AI spending. Investors are becoming more cautious about AI companies. The October job report came out much higher than expected, which reinforced the possibility of a December hike to cool down the economy. 
+
+The numbers say the same thing: the S&P fell 2.7% for the week, and the Nasdaq fell 3.4%, the worst week since June. On Thursday, the Nasdaq fell 5.5%, and Qualcomm and Arm both beat on sales yet fell 9.5% and 13.1%.
+
+My verdict: the story moved prices this week — the market punished the spending, not the results.
+
+
 
