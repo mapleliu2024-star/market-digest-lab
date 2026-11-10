@@ -262,11 +262,13 @@ Both Qualcomm and Arm's revenue beat the market's expectations, but shares fell 
 
 ## First Line:
 
+(I did not write an expectation before the print, so this line is graded against the public consensus (~65,000 jobs), not my own bar.)
+
 Jobs came in much stronger than expected: +165,000 new jobs in October vs about 65,000 expected, unemployment 4.1% vs 4.2% expected, wages +0.4% vs +0.3%. First read: strong hiring keeps pressure on prices, so a December rate hike looks more likely.
 
 ## Final Line:
 
-September jobs revised up to 60,000. October jobs came up much higher than expected. Stocks ended higher. A December hike is now like a certain event.
+Friday's full session: S&P +0.31% to 7,376.86; Nasdaq +1.09% to 24,579.42; Dow −0.46% to 51,285.73; 10-year yield 4.859%. A December hike is about 77% priced in.
 
 # Week of Nov 2–8 — scorecard:
 
