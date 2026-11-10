@@ -280,5 +280,40 @@ The numbers say the same thing: the S&P fell 2.7% for the week, and the Nasdaq f
 
 My verdict: the story moved prices this week — the market punished the spending, not the results.
 
+# CPI capture card — October (expectations written Nov 10, before the print):
+
+The release: today, Tuesday, November 10, 8:30am US Eastern time = 21:30 Beijing time.
+
+CPI is the Consumer Price Index — the monthly measure of what consumers pay for everyday goods and services. "Core" CPI strips out food and energy, which swing a lot month to month. "m/m" means month over month — this month vs last month.
+
+Headline CPI expected +0.3% for the month. Core CPI expected +0.2%.
+
+Last month (September) for comparison: headline +0.6%, core +0.3% — so the market expects inflation to cool a little.
+
+NO year-over-year number this time. October 2025 prices were never collected during the 2025 government shutdown, so the BLS (the Bureau of Labor Statistics, which publishes CPI) has nothing to compare against. Any ~3.9–4.0% year-over-year figure you see is a model estimate, not the official number — grade only the monthly numbers.
+
+One rounding wrinkle: RBC expects core at +0.3%, above the +0.2% consensus. So a +0.3% core print would beat the consensus bar but match that bank.
+
+The December context: markets price about a 75–78% chance of a Fed hike in December after Friday's strong jobs report (+165,000).
+
+If core inflation cools to 0.2%, the December hike odds should fall — but after the strong jobs report, the market may still treat a hike as the base case.
+
+# CoreWeave capture card — Q3 (expectations written Nov 10, before the print):
+
+The release: tonight, Tuesday, November 10, after the US market closes, with the earnings call at 5:00pm US Eastern = 06:00 Wednesday Beijing time.
+
+CoreWeave rents out AI computing power — it buys expensive chips, borrows heavily to pay for them, and charges AI companies to use them. 
+
+The bar: revenue $3.54 billion (consensus; about +159% vs a year ago), inside the company's own guide of $3.45–$3.60 billion. Loss of about $1.17 per share (Zacks consensus) — but be careful: per-share loss estimates differ a lot across providers (TipRanks says −$1.27, a GAAP-based consensus says about −$1.57), so grade the revenue line and the guide first, not the loss per share.
+
+The company's own guide to watch: adjusted operating income $200–$260 million, interest expense $860–$940 million, capex $11.5–$13.5 billion. Interest expense is the number to stare at: it is more than three times the operating income.
+
+Also watch the backlog (about $104 billion as of June 30) and any update on power coming online — new data-center power is what turns backlog into cash.
+
+If CoreWeave beats on revenue but the interest bill keeps growing faster than operating income, the market will be more concerned about the debt repayment than the revenue.
+
+
+
+
 
 
