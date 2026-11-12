@@ -298,6 +298,14 @@ The December context: markets price about a 75–78% chance of a Fed hike in Dec
 
 If core inflation cools to 0.2%, the December hike odds should fall — but after the strong jobs report, the market may still treat a hike as the base case.
 
+## FIRST:
+
+CPI came in hotter than expected on both lines: headline +0.4% vs +0.3% expected, core +0.3% vs +0.2%. The odds of a December hike are above 90%, expected by the market. 
+
+## FINAL:
+
+Tuesday's full session: S&P −0.4%, Nasdaq −0.7%, Dow −0.3%; the 10-year yield rose to about 4.98%. My verdict: the hot CPI print made a December hike the base case, and stocks fell because higher rates squeeze future profits.
+
 # CoreWeave capture card — Q3 (expectations written Nov 10, before the print):
 
 The release: tonight, Tuesday, November 10, after the US market closes, with the earnings call at 5:00pm US Eastern = 06:00 Wednesday Beijing time.
@@ -312,8 +320,12 @@ Also watch the backlog (about $104 billion as of June 30) and any update on powe
 
 If CoreWeave beats on revenue but the interest bill keeps growing faster than operating income, the market will be more concerned about the debt repayment than the revenue.
 
+## FIRST:
 
+CoreWeave beat on revenue: $3.66 billion vs $3.54 billion expected, up 168% on a year ago, and the backlog grew to $133 billion from $104 billion. But interest of $846 million is still more than twice the $379 million of operating income, so the debt fear eased a little — it did not go away.
 
+## FINAL:
 
+Wednesday's full session: CoreWeave +24.7% to $60.77; the Nasdaq rose 1.6% to 25,466.19 and the S&P 500 rose 1.3% to 7,619.38. My verdict: the market decided the revenue beat and the smaller borrowing plan matter more than the debt pile — the debt-fear story took its first real hit in three weeks.
 
-
+Loss per share was −$1.27, a miss against my −$1.17 bar (Zacks) — grade this second, after revenue and the guide.
