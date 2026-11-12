@@ -329,3 +329,17 @@ CoreWeave beat on revenue: $3.66 billion vs $3.54 billion expected, up 168% on a
 Wednesday's full session: CoreWeave +24.7% to $60.77; the Nasdaq rose 1.6% to 25,466.19 and the S&P 500 rose 1.3% to 7,619.38. My verdict: the market decided the revenue beat and the smaller borrowing plan matter more than the debt pile — the debt-fear story took its first real hit in three weeks.
 
 Loss per share was −$1.27, a miss against my −$1.17 bar (Zacks) — grade this second, after revenue and the guide.
+
+# Nov 12, 2026 expectations:
+
+Cisco (first quarter of its 2027 fiscal year): 
+
+The company's own guide is revenue $18.0–18.2 billion and non-GAAP earnings per share $1.32–1.34. Consensus is around $18.1 billion and $1.33. Grade against the company's guide first — it is the stabler bar.
+
+Applied Materials (fourth quarter of its 2026 fiscal year): 
+
+The company's own guide is revenue $10.25 billion (give or take $0.5 billion) and non-GAAP earnings per share $4.02 (give or take $0.20). Consensus is around $10.3 billion and $4.06.
+
+My verdict: these two are also two more stories to verify the debt-fear story.
+
+
