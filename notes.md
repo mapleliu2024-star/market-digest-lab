@@ -334,13 +334,11 @@ Loss per share was −$1.27, a miss against my −$1.17 bar (Zacks) — grade th
 
 Cisco (first quarter of its 2027 fiscal year): 
 
-The company's own guide is revenue $18.0–18.2 billion and non-GAAP earnings per share $1.32–1.34. Consensus is around $18.1 billion and $1.33. Grade against the company's guide first — it is the stabler bar.
+The company's own guide is revenue $18.0–18.2 billion and non-GAAP earnings per share $1.32–1.34. Consensus is around $18.1 billion and $1.33. Grade against the Zacks consensus — the guide is a second check.
 
 Applied Materials (fourth quarter of its 2026 fiscal year): 
 
-The company's own guide is revenue $10.25 billion (give or take $0.5 billion) and non-GAAP earnings per share $4.02 (give or take $0.20). Consensus is around $10.3 billion and $4.06.
-
-My verdict: these two are also two more stories to verify the debt-fear story.
+The company's own guide is revenue $10.25 billion (give or take $0.5 billion) and non-GAAP earnings per share $4.02 (give or take $0.20). Consensus is around $10.3 billion and $4.06. (Zacks consensus)
 
 ## Cisco + Applied Materials FIRST — Nov 12 after hours:
 
@@ -348,19 +346,9 @@ Cisco (networking gear — the company that connects data centres): beat. Revenu
 
 Applied Materials (makes the machines that build chips): beat. Revenue $10.41B vs ~$10.30B expected, non-GAAP EPS $4.16 vs $4.06. Next-quarter guide above expectations: revenue ~$11.1B vs ~$10.89B, EPS ~$4.35 vs ~$4.25.
 
-Thursday's full session for context (not the verdict): S&P −0.35% to 7,592.40, Nasdaq −0.4% to 25,366.09, Dow −0.4% to 52,297.09; Nvidia −4% after its CEO Jensen Huang stepped down; 10-year yield jumped to 5.13%.
+Thursday's full session for context (not the verdict): S&P −0.35% to 7,592.40, Nasdaq −0.4% to 25,366.09, Dow −0.4% to 52,297.09; Nvidia −4% after its CEO Jensen Huang stepped down; 10-year yield jumped to about 5.10%.
 
-## FINAL: 
-
-PPI: October PPI was cooler for the month (+0.3% vs +0.4% expected) but hottest in four years over the year (+6.5%). Stocks fell on Friday because PPI is still much higher compared to last year's.
-
-Cisco: Cisco beat and raised its outlook, but fell 6.2% to $95.64 — the market punished the thinner margin and a next-quarter guide below the record quarter just reported.
-
-Applied Materials: Applied Materials beat too and fell 2.7% to $370.50 — a record quarter, but the market is no longer paying up for the future.
-
-Both companies fell on margins and guidance, not on borrowing. I think the market is worried about AI debt, but it is a common concern for most tech companies, so the price reflects more revenue than borrowing. 
-
-## No FIRST line was written for Cisco or Applied Materials before the prints — these are FINAL lines only.
+## FINAL:
 
 PPI came in a touch cooler than expected for the month, but +6.5% over the year is the hottest since November 2022, so the December hike is now fully priced in.
 
@@ -375,16 +363,18 @@ Cisco record revenue $18.5B, but the margin slipped and next quarter's guide ($1
 
 # Sprint 3 retro — Nov 14:
 
-What worked best in Sprint 3? (The capture-card habit? The weekly scorecards? The shock-card process?)
+What worked best in Sprint 3?
 I think the shock-card process is smoother.
 
-What surprised you most? (One thing the market did that you didn't expect — the beat-but-fell pattern? The yearly PPI number outweighing the monthly one?)
+What surprised you most?
 The yearly PPI number is surprising to most investors, including me. The market has been discussing the AI bubble over the last year, but it has been very cautious and sensitive to AI developments from this year. So, I think AI bubble will not happen under these circumstances. I did not expect that the market would be so cautious. Every little move in the AI industry will be reflected in the price. 
 
-What changes for Sprint 4? (One concrete change — e.g., write expectation bars the night before, or clean brackets the same day a card is built.)
+What changes for Sprint 4?
 I don't understand why there are no headlines labeling anymore. And I feel the project's meaning has been weakening since Sprint 3. I hope Sprint 4 can be more useful.
 
-# Week of Nov 9–15 — scorecard:
+10 shock cards, 4 weekly scorecards, 15 events with source links.
+
+# Week of Nov 9–15 — scorecard: Label-debt fears
 
 Hot CPI on Tuesday (headline +0.4% vs +0.3% expected, core +0.3% vs +0.2%) pushed December-hike odds above 90%.
 
@@ -396,19 +386,27 @@ CoreWeave jumped 24.7% on Wednesday after beating on revenue.
 
 Cisco and Applied Materials fell on margins and guidance, not on debt.
 
+Label 12 'debt fears' holds for a fourth week, but weakly. Stocks ended the week up and CoreWeave jumped 24.7%, so the market rewarded the borrower this week — the fear is still in the background, but prices did not obey it.
 
+Price test: mixed — stocks up and CoreWeave up argue against the story; Cisco/AMAT down argue for it, but on margins, not debt.
 
+# Sprint 4 — flagship piece: 
 
+Flagship piece: the debt-fear arc, because it has been the hot topic across three weeks, from Meta's fall to CoreWeave's jump.
 
+# Nvidia capture card — Q3 FY2027 (expectations written Nov 16, before the print):
 
+I expect Nvidia to report revenue of about $108.8–109.2 billion and adjusted EPS of about $2.47–2.48 (consensus; LSEG $109.2B / $2.48, Investing.com $108.82B / $2.47).
 
+Nvidia's own guide is revenue of $108.0 billion, plus or minus 2%, and gross margin of 74.0%, plus or minus half a point (down from 75.0% last quarter). The guide assumes zero Data Center compute revenue from China.
 
+Jensen Huang resigned as CEO on November 12, and CFO Colette Kress is the interim CEO
 
+I think a beat would read as confidence, not debt risk: Nvidia sells the chips, so strong sales mean the buildout is paid for by real demand, not just borrowing.
 
+Last quarter was $96.2B total with Data Center $89.0B (about 92% of the business), and the quarter being reported ended October 25. 
 
-
-
-
+Grade the numbers on the business, and the guide and the call on the transition.
 
 
 
