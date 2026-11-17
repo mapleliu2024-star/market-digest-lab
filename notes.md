@@ -342,4 +342,73 @@ The company's own guide is revenue $10.25 billion (give or take $0.5 billion) an
 
 My verdict: these two are also two more stories to verify the debt-fear story.
 
+## Cisco + Applied Materials FIRST — Nov 12 after hours:
+
+Cisco (networking gear — the company that connects data centres): beat. Revenue $18.5B vs ~$18.1B expected (own guide $18.0–18.2B), non-GAAP EPS $1.40 vs $1.33 (own guide $1.32–1.34). Raised full-year guide: revenue $74.8–75.8B (was $72.2–73.4B), non-GAAP EPS $5.47–5.53 (was $5.05–5.11). AI infrastructure revenue from the big cloud companies raised to $9B (was $7.5B). Q2 guide also above expectations: revenue $18.0–18.2B, EPS $1.34–1.36 vs $1.23 expected.
+
+Applied Materials (makes the machines that build chips): beat. Revenue $10.41B vs ~$10.30B expected, non-GAAP EPS $4.16 vs $4.06. Next-quarter guide above expectations: revenue ~$11.1B vs ~$10.89B, EPS ~$4.35 vs ~$4.25.
+
+Thursday's full session for context (not the verdict): S&P −0.35% to 7,592.40, Nasdaq −0.4% to 25,366.09, Dow −0.4% to 52,297.09; Nvidia −4% after its CEO Jensen Huang stepped down; 10-year yield jumped to 5.13%.
+
+## FINAL: 
+
+PPI: October PPI was cooler for the month (+0.3% vs +0.4% expected) but hottest in four years over the year (+6.5%). Stocks fell on Friday because PPI is still much higher compared to last year's.
+
+Cisco: Cisco beat and raised its outlook, but fell 6.2% to $95.64 — the market punished the thinner margin and a next-quarter guide below the record quarter just reported.
+
+Applied Materials: Applied Materials beat too and fell 2.7% to $370.50 — a record quarter, but the market is no longer paying up for the future.
+
+Both companies fell on margins and guidance, not on borrowing. I think the market is worried about AI debt, but it is a common concern for most tech companies, so the price reflects more revenue than borrowing. 
+
+## No FIRST line was written for Cisco or Applied Materials before the prints — these are FINAL lines only.
+
+PPI came in a touch cooler than expected for the month, but +6.5% over the year is the hottest since November 2022, so the December hike is now fully priced in.
+
+PPI +0.3% for the month vs +0.4% expected; +6.5% year over year, highest since November 2022; core +0.3% as expected, +5.0% year over year. 
+
+Friday's full session: S&P −0.40% to 7,561.67, Nasdaq −0.91% to 25,136.27, Dow +0.10% to 52,347.55.
+
+Both beat on sales and still fell — Cisco −6.2% to $95.64, Applied Materials −2.7% to $370.50 — so this week the market punished thin margins and soft guides, not just debt.
+
+Cisco record revenue $18.5B, but the margin slipped and next quarter's guide ($18.0–18.2B) came in below the quarter just reported; Applied Materials record revenue $10.41B, EPS $4.16, but JPMorgan cut its target from $660 to $500.
+
+
+# Sprint 3 retro — Nov 14:
+
+What worked best in Sprint 3? (The capture-card habit? The weekly scorecards? The shock-card process?)
+I think the shock-card process is smoother.
+
+What surprised you most? (One thing the market did that you didn't expect — the beat-but-fell pattern? The yearly PPI number outweighing the monthly one?)
+The yearly PPI number is surprising to most investors, including me. The market has been discussing the AI bubble over the last year, but it has been very cautious and sensitive to AI developments from this year. So, I think AI bubble will not happen under these circumstances. I did not expect that the market would be so cautious. Every little move in the AI industry will be reflected in the price. 
+
+What changes for Sprint 4? (One concrete change — e.g., write expectation bars the night before, or clean brackets the same day a card is built.)
+I don't understand why there are no headlines labeling anymore. And I feel the project's meaning has been weakening since Sprint 3. I hope Sprint 4 can be more useful.
+
+# Week of Nov 9–15 — scorecard:
+
+Hot CPI on Tuesday (headline +0.4% vs +0.3% expected, core +0.3% vs +0.2%) pushed December-hike odds above 90%.
+
+By Friday, a December hike was fully priced in. 
+
+Stocks ended the week UP (S&P +2.5%, Nasdaq +2.3%, Dow +2.1%). 
+
+CoreWeave jumped 24.7% on Wednesday after beating on revenue.
+
+Cisco and Applied Materials fell on margins and guidance, not on debt.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
