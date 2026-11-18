@@ -408,5 +408,32 @@ Last quarter was $96.2B total with Data Center $89.0B (about 92% of the business
 
 Grade the numbers on the business, and the guide and the call on the transition.
 
+## FIRST:
+
+Revenue $115.8B vs ~$109.2B expected — beat, +103% from a year ago, also above Nvidia's own $108.0B guide.
+
+Adjusted EPS $2.68 vs ~$2.48 expected — beat (GAAP EPS $2.70).
+
+Data Center $107.6B vs ~$101.9B expected, +110% from a year ago, about 93% of all revenue.
+
+Next-quarter guide: revenue $130.0B ±3% vs ~$125B expected — beat, but gross margin guided down to 71–72% from 74.9% this quarter.
+
+Shares finished after hours at $162.95, up 4.8% from Tuesday's $155.46 close — after swinging between $157.44 (+1.3%) and $161.70 (+4.0%) during the evening. Tuesday's regular session closed at $155.46, −0.44%.
+
+I think the beat eases the debt fear a little but does not end it. Revenue beat by about $6.6B and the next-quarter guide beat too, so demand is still strong — but the margin guide fell to 71–72%, so the market still has something to worry about.
+
+# Flagship piece — outline:
+
+Opening: When AI spending is financed with debt, does the market cheer the growth or fear who is paying?
+
+Meta: the first crack — raised capex; after hours the market cheered it (+~3%), but the full session said otherwise: −6.98% to $648.85. Spending-as-debt-risk won the final verdict.
+
+CoreWeave: the fear at full size — about $47B of debt, bonds yielding over 15%, fell ~25% in a mid-October week; the market asking who pays for the buildout.
+
+Nvidia: the counter-test — a clean beat ($115.8B vs ~$109.2B) and a strong guide, but a margin step-down to 71–72%; demand strong, worry not gone.
+
+Conclusion: The market is concerned about who will pay for the debt because AI spending is increasing at a speed out of the market's expectation. 
+
+
 
 
